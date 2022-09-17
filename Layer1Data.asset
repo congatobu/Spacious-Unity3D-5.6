@@ -1,0 +1,2578 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21208a5192dc23e46a1e8ccee66e6fcb, type: 3}
+  m_Name: Layer1Data
+  m_EditorClassIdentifier: 
+  _width: 32
+  _height: 16
+  _numberOfLayers: 1
+  layerHashes: 01188001
+  tiles:
+  - xIndex: 0
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 0
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 3
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 0
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 5
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 14
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 3
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 0
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 0
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 5
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 5
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 3
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 3
+    yIndex: 14
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 2
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 2
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 3
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 3
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 2
+    yIndex: 15
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 3
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 5
+    yIndex: 11
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 3
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 5
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 4
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 3
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 8
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 0
+    yIndex: 14
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 5
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 1
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 9
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: 0
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: 2
+    yIndex: 10
+    flip: 0
+    rotation: 0
+    autoTileIndex: 0
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1
+  - xIndex: -1
+    yIndex: -1
+    flip: 0
+    rotation: -1
+    autoTileIndex: -1

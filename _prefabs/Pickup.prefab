@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1917769383578986}
+  m_IsPrefabParent: 1
+--- !u!1 &1917769383578986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4001958778046026}
+  - component: {fileID: 114927540549017402}
+  m_Layer: 8
+  m_Name: Pickup
+  m_TagString: Pickup
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4001958778046026
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1917769383578986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114927540549017402
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1917769383578986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2481c564ead8f66449271b941261ede9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObjectGenerator: {fileID: 0}
+  CrystalPref: {fileID: 100000, guid: 08fa3ae376332be43adfa9566bea33d9, type: 2}
+  EnemyPref: {fileID: 1762125798941222, guid: f951a2763fd63f94096ea41c5875267f, type: 2}
+  ReactorPref: {fileID: 100000, guid: f0bdf687a3b25a64e89b9691587d56dd, type: 2}
+  AliensPref: {fileID: 1133101033881078, guid: 1ffc365f67737b34a80b97557301d25f, type: 2}
+  CrystalParentPref: {fileID: 1016569704223104, guid: 0605930e525c29746bb5edb8b25bc44d,
+    type: 2}
+  RockPref: {fileID: 1139988500984680, guid: 5f2dcdc6a6753df4ebe7334b01fa8069, type: 2}
+  Rock2Pref: {fileID: 1029962244849776, guid: 3ec0f63e7e76b26409fd6da4491c7346, type: 2}
+  Rocks:
+  - {fileID: 21300044, guid: 9b04a419f2234434fa1765ab0685bfe3, type: 3}
+  - {fileID: 21300046, guid: 9b04a419f2234434fa1765ab0685bfe3, type: 3}
+  - {fileID: 21300048, guid: 9b04a419f2234434fa1765ab0685bfe3, type: 3}
+  - {fileID: 21300050, guid: 9b04a419f2234434fa1765ab0685bfe3, type: 3}
+  - {fileID: 21300052, guid: 9b04a419f2234434fa1765ab0685bfe3, type: 3}
+  - {fileID: 21300054, guid: 9b04a419f2234434fa1765ab0685bfe3, type: 3}
+  Rocks2:
+  - {fileID: 21300058, guid: a19dc317f6b43f74d876d9c268364da7, type: 3}
+  - {fileID: 21300060, guid: a19dc317f6b43f74d876d9c268364da7, type: 3}
+  - {fileID: 21300062, guid: a19dc317f6b43f74d876d9c268364da7, type: 3}
